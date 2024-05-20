@@ -92,7 +92,7 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Your Name**
+👤 **Temitope Ogunleye**
 
 - GitHub: [@topeogunleye](https://github.com/topeogunleye)
 - Twitter: [@tope_loba](https://twitter.com/tope_loba)
